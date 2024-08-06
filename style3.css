@@ -1,0 +1,186 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    position: fixed;
+    background-color: white;
+    height: 80px; 
+    width: 100% ;}
+    .bigthree{
+        display: flex;
+        gap: 19px;
+        color: black;
+    text-decoration: none;
+    margin-top: 20px;
+    padding-right: 20px;}
+    .sss{
+        font-size: 30px;
+        font-weight: bold;
+        padding-top: 15px;
+        padding-left: 15px;
+    }
+    footer{ padding-top: 100px;
+        margin-top:900px;
+        background-color: #01153e ;
+        height: 400px;
+        width: 100%;
+        color: white;
+        font-size: 20px;
+    
+      display: flex;
+      flex-direction: row ;
+    
+    justify-content: space-around;
+    }
+    .social-media {
+        display: flex;
+        gap: 15px;
+    }
+    #hh{
+        font-weight: bold;
+        font-size: 30px;
+    }
+    .place{
+        height: 40px;
+        border-radius: 10px;
+    }
+    .both{ 
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    }
+    .troisdiv{
+       padding-top: 100px;
+        display: flex;
+        flex-direction: row;
+        gap: 25px;
+        width: 2000px;
+justify-content: space-around
+    }
+   h3{ 
+    font-size: 40px;
+   }
+   .lktiba{
+    font-size: 18px;
+    height: 600px;
+    width: 600px;
+  
+   }
+   .slay{
+    display: flex;
+    flex-direction: column;
+    padding-top: 120px;
+    align-items: center;
+   }
+   .wesette{
+    background-image: url(tennis.jpeg);
+    height: 600px;
+   width: 500px;
+border-radius: 10px;  
+background-position: center;
+background-size: cover;}
+.top{
+    background-image: url(yellow.jpeg);
+    height: 600px;
+   width: 500px;
+border-radius: 10px;  
+background-position: center;
+background-size: cover;}
+.toll{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.orth{
+display: flex;
+flex-direction: row;
+gap: 10px;
+justify-content: center;
+width: 100%;
+}
+.taswira{ background-image: url(bras.jpeg);
+    height: 500px;
+    width: 800px;
+ border-radius: 10px;  
+ background-position: center;
+ background-size: cover;
+}
+.ahbatt{
+  
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.sowra
+    { background-image: url(abdo.jpeg);
+        height: 500px;
+        width: 800px;
+     border-radius: 10px;  
+     background-position: center;
+     background-size: cover;
+     margin-left: 53px;
+    }
+.titre{ color: black;
+display: flex;
+flex-direction: column;
+align-items: center;}
+.siximages{
+display: flex;
+flex-direction: column;
+gap: 10px;
+}
+.threeimages{
+display: flex;
+flex-direction: row ;
+gap: 10px;
+}
+.p1{
+    background-image: url(i1.jpeg);
+        height: 500px;
+        width: 800px;
+     border-radius: 20px;  
+     background-position: center;
+     background-size: cover;
+   
+}
+.p2{background-image: url(i2.avif);
+    height: 500px;
+    width: 800px;
+ border-radius: 20px;  
+ background-position: center;
+ background-size: cover;
+ }
+ .p3{
+    background-image: url(i3.avif);
+    height: 500px;
+    width: 800px;
+ border-radius: 20px;  
+ background-position: center;
+ background-size: cover;
+ }
+ .p4{
+    background-image: url(i4.avif);
+    height: 500px;
+    width: 800px;
+ border-radius: 20px;  
+ background-position: center;
+ background-size: cover;
+ }
+ .p5{
+    background-image: url(i5.jpeg);
+    height: 500px;
+    width: 800px;
+ border-radius: 20px;  
+ background-position: center;
+ background-size: cover;
+ }
+ .p6{
+    background-image: url(i6.avif);
+    height: 500px;
+    width: 800px;
+ border-radius: 20px;  
+ background-position: center;
+ background-size: cover;
+ }

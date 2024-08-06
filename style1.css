@@ -1,0 +1,177 @@
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    position: fixed;
+    background-color: white;
+    height: 80px; 
+    width: 100% ;
+
+}
+.menu{ 
+    width: 100% ;
+    height :900px;
+    background-image: url(menu.jpg);
+    background-position: center;
+    border-radius: 30px;
+    background-size: cover;
+    color: white;
+    padding-bottom: 30px;
+padding-left: 10px;
+    flex-direction: column;
+    align-content: flex-end ;
+    align-items: flex-end;
+    align-self: flex-end;
+    margin-bottom: 100px;
+}
+
+.bigthree{
+    display: flex;
+    gap: 19px;
+    color: black;
+text-decoration: none;
+margin-top: 20px;
+padding-right: 20px;
+}
+.one{color: black;
+    text-decoration: none;
+}
+.sss{
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+.ktiba{
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+.two{ display: flex;
+flex-direction: column;}
+.three{ display: flex;
+flex-direction: row;
+width: 100%;
+justify-content: center;
+}
+
+.first{
+    background-image: url(femmes.jpg);
+    width: 800px;
+    height: 500px;
+    background-position: center;
+    border-radius: 30px;
+    background-size: cover;
+    color: white;
+    padding-bottom: 30px;
+padding-left: 10px;
+    flex-direction: column;
+    align-content: flex-end ;
+    align-items: flex-end;
+    align-self: flex-end;
+}
+.second{
+    background-image: url("climb.jpg");
+    width: 800px;
+    height: 220px;
+    border-radius: 30px;  
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding-bottom: 30px;
+padding-left: 10px;
+    flex-direction: column;
+    align-content: flex-end ;
+    align-items: flex-end;
+    align-self: flex-end;
+    
+}
+.last{
+    background-image: url("equipement.jpg");
+    width: 800px;
+    height: 250px;
+    border-radius: 30px; 
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding-bottom: 30px;
+padding-left: 10px;
+    flex-direction: column;
+    align-content: flex-end ;
+    align-items: flex-end;
+    align-self: flex-end;
+  
+}
+.quatro{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+}
+#s1{
+    background-image: url(1p.jpg);
+    height: 600px;
+    width: 450px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+}
+#s2{
+    background-image: url(2p.jpg);
+    height: 600px;
+    width: 450px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+
+}
+#s3{
+    background-image: url(3p.jpeg);
+    height: 600px;
+    width: 450px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+
+}
+#s4{
+    background-image: url(4p.jpeg);
+    height: 600px;
+    width: 450px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+}
+footer{
+    background-color: #01153e ;
+    height: 400px;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+
+  display: flex;
+  flex-direction: row ;
+
+justify-content: space-around;
+}
+.social-media {
+    display: flex;
+    gap: 15px;
+}
+#hh{
+    font-weight: bold;
+    font-size: 30px;
+}
+.place{
+    height: 40px;
+    border-radius: 10px;
+}
+.both{ 
+display: flex;
+flex-direction: row;
+gap: 10px;
+}
